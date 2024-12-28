@@ -2,7 +2,7 @@ function [out] = GLCM_Features(glcm)
 % 
 % GLCM_Features Computes a subset of GLCM features in a vectorized fashion.
 %
-% See the code by by Avinash Uppuluri for references on how each of the
+% See the code by by ABINAYAGOUD for references on how each of the
 % features was computed (see file with ID 22354 in MathWork's File
 % Exchange).
 %
