@@ -1,5 +1,5 @@
 <pre>
-<ul>
+<ol type="1">
 Clone the Repository.
 Open matlab and click on new script
 Open the cloned repository folder in matlab from File explorer.
